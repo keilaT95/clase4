@@ -1,2 +1,5 @@
 //este el es cuerpo principial: algo mas
 el main de la app
+
+
+intrucciones agregadas en el repositorio remoto

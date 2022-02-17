@@ -1,2 +1,2 @@
-//este el es cuerpo principial 
+//este el es cuerpo principial: algo mas
 el main de la app

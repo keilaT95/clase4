@@ -1,0 +1,2 @@
+//este el es cuerpo principial 
+el main de la app
